@@ -30,7 +30,14 @@ Go to the website listed below and enter a city in the search field. After that 
 
 ## Usage
 
+[Live Site](https://zach-lewis11.github.io/Weather_Dashboard/)
+
 Just go to the URL provided in above link.
+
+![Site on Load](./assests/images/Weather-Dashboard.png)
+
+![Site after Search](./assests/images/Weather-Dashboard-2.png)
+
 
 ---
 
@@ -47,6 +54,8 @@ Email me
 ---
 
 ## Test
+
+
 
 Type in various cites, if they populate then you are good to go. Also check local storage to make sure the past searches are being saved.
 
